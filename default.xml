@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="zgl" fetch="https://github.com/aliu927/" review="review.source.android.com"/>
+<default revision="master" remote="zgl"/>
+<project path="project" name="project"/>
+</manifest>
