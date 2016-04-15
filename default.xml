@@ -3,4 +3,5 @@
 <remote name="zgl" fetch="https://github.com/aliu927/" review="review.source.android.com"/>
 <default revision="master" remote="zgl"/>
 <project path="project" name="project"/>
+<project path="sub-path/project2" name="SubPath/Project2"/>
 </manifest>
